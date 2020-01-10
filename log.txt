@@ -1,0 +1,145 @@
+Waring:mining packets detected:
+From: 45.77.187.229:3333	To: 192.168.56.130:58618
+Payload: {"jsonrpc":"2.0","method":"job","params":{"blob":"0601d5a8fae905b6a6a03da94e187ee9a49264a2888929aeadee5159aaf861ba1012b2b01bc8fe00000000cc1ffe2fdd1508c5d8e0608fe30b7ba872592e5767ad850dfec660c84ea2677f01","job_id":"765663334576843","target":"0cd90800","id":"639979478315267"}}
+
+Waring:mining packets detected:
+From: 192.168.56.130:58620	To: 45.77.187.229:3333
+Payload: {"method":"submit","params":{"id":"373979830069442","job_id":"930039725363702","nonce":"fe1f0000","result":"4c9528a7bb97d93109b49b6ffef78e28f45edd7e146ab297aa8360564b7b0400"},"id":1}
+dfec660c84ea2677f01","job_id":"765663334576843","target":"0cd90800","id":"639979478315267"}}
+
+Waring:mining packets detected:
+From: 45.77.187.229:3333	To: 192.168.56.130:58620
+Payload: {"jsonrpc":"2.0","method":"job","params":{"blob":"0601d5a8fae905b6a6a03da94e187ee9a49264a2888929aeadee5159aaf861ba1012b2b01bc8fe000000007752cdf4465b2112dc0f97e12564a3bc7383853f9a1bbe0d9d17f3e85dd9e31501","job_id":"150291629262392","target":"f0b20900","id":"373979830069442"}}
+
+Waring:mining packets detected:
+From: 45.77.187.229:3333	To: 192.168.56.130:58620
+Payload: {"jsonrpc":"2.0","method":"job","params":{"blob":"0601b9aafae9055298cb560b1b360373a7d1c71c82fe8c6bc25316933e7ffce040543d51e05b360000000018688e0c32fdad56ff1e5135cefc467af1760fb1e6720b5867d9984e250e7b6501","job_id":"392723337767654","target":"f0b20900","id":"373979830069442"}}
+
+Waring:mining packets detected:
+From: 45.77.187.229:3333	To: 192.168.56.130:58618
+Payload: {"jsonrpc":"2.0","method":"job","params":{"blob":"0601b9aafae9055298cb560b1b360373a7d1c71c82fe8c6bc25316933e7ffce040543d51e05b360000000036219e89d2d07dae3c773f6654fee26e670c1c8394e9a3f791c6050803c7a9f301","job_id":"680776443111484","target":"0cd90800","id":"639979478315267"}}
+
+Waring:mining packets detected:
+From: 192.168.56.130:58620	To: 45.77.187.229:3333
+Payload: {"method":"submit","params":{"id":"373979830069442","job_id":"392723337767654","nonce":"1b020000","result":"3e9fe24c876925a6383101933a039df19d918a638020768fdf0effe941660000"},"id":1}
+791c6050803c7a9f301","job_id":"680776443111484","target":"0cd90800","id":"639979478315267"}}
+
+Waring:mining packets detected:
+From: 45.77.187.229:3333	To: 192.168.56.130:58618
+Payload: {"jsonrpc":"2.0","method":"job","params":{"blob":"0601b9aafae9055298cb560b1b360373a7d1c71c82fe8c6bc25316933e7ffce040543d51e05b3600000000de08e2a84a5aa9aaf21f0ab8a4cde81c36d37e9e9d3898a067d4889f1426e84501","job_id":"200345017050445","target":"92450d00","id":"639979478315267"}}
+
+Waring:mining packets detected:
+From: 45.77.187.229:3333	To: 192.168.56.130:58620
+Payload: {"jsonrpc":"2.0","method":"job","params":{"blob":"0601f1aafae905be3f8eb5eb7fa32000aa7a9b93906ab6e4df354bfd8264c3895af9b1101e859900000000e4c520eb7af91df0f45ade77d8c06d6f3a3d70e73e50df0ea59cae92b191518201","job_id":"810883194925289","target":"f0b20900","id":"373979830069442"}}
+
+Waring:mining packets detected:
+From: 45.77.187.229:3333	To: 192.168.56.130:58618
+Payload: {"jsonrpc":"2.0","method":"job","params":{"blob":"0601f1aafae905be3f8eb5eb7fa32000aa7a9b93906ab6e4df354bfd8264c3895af9b1101e8599000000002a038dafc6980cbbf64f204cfafa2f1f21678e054742c43bee69c7202643650c01","job_id":"642705299501464","target":"92450d00","id":"639979478315267"}}
+
+Waring:mining packets detected:
+From: 45.77.187.229:3333	To: 192.168.56.130:58620
+Payload: {"jsonrpc":"2.0","method":"job","params":{"blob":"0601ffaafae905dfe3645b3fbd14e6d5861cc79a88c75188482362b9e9a6500640958668a1e0e3000000009ce09b30c3fd8ab60c438b3671118fb7e48a9e42bd76103b397baf021460140201","job_id":"486665152267666","target":"f0b20900","id":"373979830069442"}}
+
+Waring:mining packets detected:
+From: 45.77.187.229:3333	To: 192.168.56.130:58618
+Payload: {"jsonrpc":"2.0","method":"job","params":{"blob":"0601ffaafae905dfe3645b3fbd14e6d5861cc79a88c75188482362b9e9a6500640958668a1e0e3000000008516391b788bcbe7bfdda76b384bcb4df50254db0a013712c825ec5bb415089201","job_id":"509085604545025","target":"92450d00","id":"639979478315267"}}
+
+Waring:mining packets detected:
+From: 45.77.187.229:3333	To: 192.168.56.130:58620
+Payload: {"jsonrpc":"2.0","method":"job","params":{"blob":"0601ffaafae905dfe3645b3fbd14e6d5861cc79a88c75188482362b9e9a6500640958668a1e0e300000000223e30fafa07ff17aaf880251de9f2a7ebd66d9873b67f0100cf3cebf3a4614001","job_id":"650397783494970","target":"218c0e00","id":"373979830069442"}}
+
+Waring:mining packets detected:
+From: 45.77.187.229:3333	To: 192.168.56.130:58620
+Payload: {"jsonrpc":"2.0","method":"job","params":{"blob":"0601a9abfae9052cd2da617673c1f1fc6cdc1d8557c3f07841cf95eb081a30a3714fbff2a6f0a4000000006407b3392d2851e0f0300273cf9fcde36a43c54637df728943ccd6f9a0954d6201","job_id":"789058468907222","target":"218c0e00","id":"373979830069442"}}
+
+Waring:mining packets detected:
+From: 45.77.187.229:3333	To: 192.168.56.130:58618
+Payload: {"jsonrpc":"2.0","method":"job","params":{"blob":"0601a9abfae9052cd2da617673c1f1fc6cdc1d8557c3f07841cf95eb081a30a3714fbff2a6f0a4000000006798e0c8f26b7f63fef5d980b3a1df82dede45f097cce0dc693664d3125935cf01","job_id":"466291132301635","target":"92450d00","id":"639979478315267"}}
+
+Waring:mining packets detected:
+From: 45.77.187.229:3333	To: 192.168.56.130:58620
+Payload: {"jsonrpc":"2.0","method":"job","params":{"blob":"0601b6abfae905d5a486c433d14a2010b4f244b710d6dadf95b72ae8e0da312a1f52fa360b3c080000000009935c83834ec2b6a2651ab3f4351a00b07aef3b2f0c20c14ff707fe2ac6e97501","job_id":"383304333249982","target":"218c0e00","id":"373979830069442"}}
+
+Waring:mining packets detected:
+From: 45.77.187.229:3333	To: 192.168.56.130:58618
+Payload: {"jsonrpc":"2.0","method":"job","params":{"blob":"0601b6abfae905d5a486c433d14a2010b4f244b710d6dadf95b72ae8e0da312a1f52fa360b3c0800000000777337e6b3ce8c2b5229e9cd8d1a0f2a47c349662943d8889812f8de8e08645f01","job_id":"181923712706796","target":"92450d00","id":"639979478315267"}}
+
+Waring:mining packets detected:
+From: 45.77.187.229:3333	To: 192.168.56.130:58618
+Payload: {"jsonrpc":"2.0","method":"job","params":{"blob":"0601b6abfae905d5a486c433d14a2010b4f244b710d6dadf95b72ae8e0da312a1f52fa360b3c0800000000e89731c22062cf404f4d4e8792dfc01fa2fe777ce0017147f7c77379dbbc13a301","job_id":"823116260140773","target":"5ce81300","id":"639979478315267"}}
+
+Waring:mining packets detected:
+From: 45.77.187.229:3333	To: 192.168.56.130:58620
+Payload: {"jsonrpc":"2.0","method":"job","params":{"blob":"060192acfae905e6f0068c1072794ff4135017b29de843cffd1f95aa2ca804af0cc23b7f6463c6000000002910872b0c418430606fc1ab9b85b7837073dd5ed68561c9ee02494c913b1fc301","job_id":"318619774530492","target":"218c0e00","id":"373979830069442"}}
+
+Waring:mining packets detected:
+From: 45.77.187.229:3333	To: 192.168.56.130:58618
+Payload: {"jsonrpc":"2.0","method":"job","params":{"blob":"060192acfae905e6f0068c1072794ff4135017b29de843cffd1f95aa2ca804af0cc23b7f6463c600000000f20cf56b72f4e8747bf75d51eebeaa3cd0c734530d1d23000697f8d1a3aa54a701","job_id":"148057034068340","target":"5ce81300","id":"639979478315267"}}
+
+Waring:mining packets detected:
+From: 192.168.56.130:58620	To: 45.77.187.229:3333
+Payload: {"method":"submit","params":{"id":"373979830069442","job_id":"318619774530492","nonce":"8c010000","result":"270567912ddcd8914e036d2938092f1de9c7f688e43fd929a5952afeacb00b00"},"id":1}
+00697f8d1a3aa54a701","job_id":"148057034068340","target":"5ce81300","id":"639979478315267"}}
+
+Waring:mining packets detected:
+From: 192.168.56.130:58620	To: 45.77.187.229:3333
+Payload: {"method":"submit","params":{"id":"373979830069442","job_id":"318619774530492","nonce":"040a0000","result":"1346e5a41f170cc5205f570d9682ea414aede9fb0a1947fc40cd242912430e00"},"id":1}
+00697f8d1a3aa54a701","job_id":"148057034068340","target":"5ce81300","id":"639979478315267"}}
+
+Waring:mining packets detected:
+From: 45.77.187.229:3333	To: 192.168.56.130:58620
+Payload: {"jsonrpc":"2.0","method":"job","params":{"blob":"060192acfae905e6f0068c1072794ff4135017b29de843cffd1f95aa2ca804af0cc23b7f6463c600000000965e8cfbaa0bc120ad947f1e5cb16c113cac0e8f403e0f04811362f26364822a01","job_id":"250199230916538","target":"d1d21500","id":"373979830069442"}}
+
+Waring:mining packets detected:
+From: 192.168.56.130:58620	To: 45.77.187.229:3333
+Payload: {"method":"submit","params":{"id":"373979830069442","job_id":"250199230916538","nonce":"07030000","result":"41aa12358202dbb9fe842bed46139febd06e2b45cf627872d051536300910700"},"id":1}
+4811362f26364822a01","job_id":"250199230916538","target":"d1d21500","id":"373979830069442"}}
+
+Waring:mining packets detected:
+From: 192.168.56.130:58620	To: 45.77.187.229:3333
+Payload: {"method":"submit","params":{"id":"373979830069442","job_id":"250199230916538","nonce":"f70e0000","result":"a2d55902a3d17ebee185dd82f4767d7bb27bebf0da8d92f1b2f7ed47c69d0100"},"id":1}
+4811362f26364822a01","job_id":"250199230916538","target":"d1d21500","id":"373979830069442"}}
+
+Waring:mining packets detected:
+From: 192.168.56.130:58620	To: 45.77.187.229:3333
+Payload: {"method":"submit","params":{"id":"373979830069442","job_id":"250199230916538","nonce":"0a160000","result":"2e8ab8705d52e7fd328e7bd8dfa047c15d14988c66ecb2cf02a96e487f590800"},"id":1}
+4811362f26364822a01","job_id":"250199230916538","target":"d1d21500","id":"373979830069442"}}
+
+Waring:mining packets detected:
+From: 192.168.56.130:58620	To: 45.77.187.229:3333
+Payload: {"method":"submit","params":{"id":"373979830069442","job_id":"250199230916538","nonce":"6c160000","result":"93eea0af0b5bafb8e70ca6a47b822a1db62cecd9af3c3edc5f2db2dcfc891100"},"id":1}
+4811362f26364822a01","job_id":"250199230916538","target":"d1d21500","id":"373979830069442"}}
+
+Waring:mining packets detected:
+From: 45.77.187.229:3333	To: 192.168.56.130:58618
+Payload: {"jsonrpc":"2.0","method":"job","params":{"blob":"060192acfae905e6f0068c1072794ff4135017b29de843cffd1f95aa2ca804af0cc23b7f6463c600000000ec19664e1583c4107caa836ed2f3542a1e53331af9e80f65209497c0d60c924101","job_id":"969460222659622","target":"60db1d00","id":"639979478315267"}}
+
+Waring:mining packets detected:
+From: 192.168.56.130:58620	To: 45.77.187.229:3333
+Payload: {"method":"submit","params":{"id":"373979830069442","job_id":"250199230916538","nonce":"71190000","result":"1737594da0e54f6bebc3dfbf384f9ee3604cf58453dc00a1c556f3e94b670400"},"id":1}
+5209497c0d60c924101","job_id":"969460222659622","target":"60db1d00","id":"639979478315267"}}
+
+Waring:mining packets detected:
+From: 192.168.56.130:58620	To: 45.77.187.229:3333
+Payload: {"method":"submit","params":{"id":"373979830069442","job_id":"250199230916538","nonce":"28230000","result":"bf376b88db239d02a993f7abba6a1e3bd7c712588f735afe231f056a2bf00500"},"id":1}
+5209497c0d60c924101","job_id":"969460222659622","target":"60db1d00","id":"639979478315267"}}
+
+Waring:mining packets detected:
+From: 192.168.56.130:58620	To: 45.77.187.229:3333
+Payload: {"method":"submit","params":{"id":"373979830069442","job_id":"250199230916538","nonce":"fa280000","result":"bf16ad881939bb4c1661a0e8326b600bd5f4c225746c9ac8d15f543371480700"},"id":1}
+5209497c0d60c924101","job_id":"969460222659622","target":"60db1d00","id":"639979478315267"}}
+
+Waring:mining packets detected:
+From: 45.77.187.229:3333	To: 192.168.56.130:58620
+Payload: {"jsonrpc":"2.0","method":"job","params":{"blob":"060192acfae905e6f0068c1072794ff4135017b29de843cffd1f95aa2ca804af0cc23b7f6463c6000000005cd73856df557198c501623af68a6bfeb96ed0f3b39a0b448053055de097a9f201","job_id":"261829789914119","target":"3abc2000","id":"373979830069442"}}
+
+Waring:mining packets detected:
+From: 192.168.56.130:58620	To: 45.77.187.229:3333
+Payload: {"method":"submit","params":{"id":"373979830069442","job_id":"261829789914119","nonce":"e8050000","result":"6bec8b04a01d4dc4644c469082dfc814d158f9f058bdc7a58024b4d37d670400"},"id":1}
+48053055de097a9f201","job_id":"261829789914119","target":"3abc2000","id":"373979830069442"}}
+
+Waring:mining packets detected:
+From: 192.168.56.130:58620	To: 45.77.187.229:3333
+Payload: {"method":"submit","params":{"id":"373979830069442","job_id":"261829789914119","nonce":"e30b0000","result":"558ae34e06b5ee8a834d7c64df383c9e86546282e90b2fd816ff28f5ddc70300"},"id":1}
+48053055de097a9f201","job_id":"261829789914119","target":"3abc2000","id":"373979830069442"}}
+

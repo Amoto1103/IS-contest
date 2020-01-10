@@ -1,0 +1,8 @@
+1.ens33 [Up, Running]
+2.any (Pseudo-device that captures on all interfaces) [Up, Running]
+3.lo [Up, Running, Loopback]
+4.bluetooth0 (Bluetooth adapter number 0)
+5.nflog (Linux netfilter log (NFLOG) interface)
+6.nfqueue (Linux netfilter queue (NFQUEUE) interface)
+7.usbmon1 (USB bus number 1)
+8.usbmon2 (USB bus number 2)
