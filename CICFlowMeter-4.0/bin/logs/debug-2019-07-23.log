@@ -1,0 +1,4 @@
+2019-07-23 12:09:06 INFO  cic.cs.unb.ca.ifm.Cmd    Please select pcap!
+2019-07-23 12:09:20 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ltc1.s0i0.pcap
+2019-07-23 12:09:20 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: .
+2019-07-23 12:09:21 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file

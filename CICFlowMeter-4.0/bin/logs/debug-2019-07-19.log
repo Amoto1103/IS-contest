@@ -1,0 +1,7 @@
+2019-07-19 22:00:24 DEBUG swing.common.SwingUtils    C:\Users\hp\Desktop\信安竞赛-2\CICFlowMeter-4.0\bin\logs (拒绝访问。)
+2019-07-19 22:00:38 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\hp\Desktop\信安竞赛-2\ltc1.s0i0.pcap
+2019-07-19 22:00:57 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\hp\Desktop\信安竞赛-2\CICFlowMeter-4.0\bin
+2019-07-19 22:00:58 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: C:\Users\hp\Desktop\信安竞赛-2\ltc1.s0i0.pcap: No such file or directory
+2019-07-19 22:02:11 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input C:\Users\hp\Desktop\信安竞赛-2\ltc1.s0i0.pcap
+2019-07-19 22:02:19 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output C:\Users\hp\Desktop\信安竞赛-2\CICFlowMeter-4.0\bin
+2019-07-19 22:02:21 ERROR cic.cs.unb.ca.jnetpcap.PacketReader    Error while opening file for capture: C:\Users\hp\Desktop\信安竞赛-2\ltc1.s0i0.pcap: No such file or directory
